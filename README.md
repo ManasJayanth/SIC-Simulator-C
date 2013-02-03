@@ -1,1 +1,1 @@
-SIC SImulator written in C
+SIC Simulator written in C
